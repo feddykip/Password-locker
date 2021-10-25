@@ -8,4 +8,4 @@ This python project is a password-locker that helps users manage their passwords
 
 ## Prerequisites
 
-An application that manages passwords and even generate new passwords for users
+
