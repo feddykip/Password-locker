@@ -19,7 +19,7 @@ To run the application, in your terminal:
   $ python3.8 run.py 
   
 ## License
-Licensed under the [MIT License]( ).
+Licensed under the [MIT License](LICENSE).
  
 
 
