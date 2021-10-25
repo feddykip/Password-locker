@@ -14,6 +14,14 @@ To access this project on your local files, you can clone it using these steps:
 ## Technologies Used
 * Python3.6
 
+## Running the Application
+To run the application, in your terminal:
+  $ python3.8 run.py 
+  
+## License
+Licensed under the [MIT License]().
+ 
+
 
 
 
